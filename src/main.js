@@ -3,7 +3,7 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-import { Button, Form, Select, Option, Table, TableColumn } from 'element-ui'
+import { Button, Form, Select, Option, Table, TableColumn, Progress } from 'element-ui'
 
 Vue.use(Button)
 Vue.use(Form)
@@ -11,6 +11,7 @@ Vue.use(Select)
 Vue.use(Option)
 Vue.use(Table)
 Vue.use(TableColumn)
+Vue.use(Progress)
 
 Vue.config.productionTip = false
 
