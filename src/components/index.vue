@@ -27,6 +27,7 @@
         enableIndex: null,
         percent: null,
         left: '',
+        index: 'ceshi',
         tableList: {
           total: 12,
           list: [
