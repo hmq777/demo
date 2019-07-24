@@ -28,7 +28,8 @@
         percent: null,
         left: '',
         index: 'ceshi',
-        index:"ceshi777",
+        lala:"ceshi777",
+        hehe:"ceshi999",
         tableList: {
           total: 12,
           list: [
