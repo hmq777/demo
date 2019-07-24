@@ -30,6 +30,7 @@
         index: 'ceshi',
         lala:"ceshi777",
         hehe:"ceshi999",
+        qiqi:"888",
         tableList: {
           total: 12,
           list: [
